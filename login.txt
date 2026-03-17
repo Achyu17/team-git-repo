@@ -1,1 +1,2 @@
 Added email login
+Fixed login vaildation bug
